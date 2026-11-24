@@ -4,6 +4,7 @@ date: 2026-11-24
 categories:
   - Middeleeuwen
   - Archeologie
+  - Groen erfgoed
   - Scheepswrak
 description: Visualisatie met eikenbomen van een opgegraven boot
 author: Ronald M.Visser

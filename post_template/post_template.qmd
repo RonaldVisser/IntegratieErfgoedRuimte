@@ -4,6 +4,7 @@ date:
 categories:
   - Archeologie
   - Geschiedenis
+  - Groen erfgoed
   - Middeleeuwen
   - Romeins
   - Scheepswrak
