@@ -26,8 +26,8 @@
 <p>De locatie van deze verbeelding ligt in Almere in de provincie Flevoland.</p>
 <div class="cell">
 <div class="cell-output-display">
-<div class="leaflet html-widget html-fill-item" id="htmlwidget-09bd00225965ca1bfce0" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-09bd00225965ca1bfce0">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[52.332966,5.241356,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Bomenboot in Almere",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[52.332966,52.332966],"lng":[5.241356,5.241356]}},"evals":[],"jsHooks":[]}</script>
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-0d1c163a39b6419545ca" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-0d1c163a39b6419545ca">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[52.332966,5.241356,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Bomenboot in Almere",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[52.332966,52.332966],"lng":[5.241356,5.241356]}},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 </section>
@@ -72,8 +72,8 @@
 <div class="column" style="width:49.5%;">
 <div class="cell">
 <div class="cell-output-display">
-<div class="leaflet html-widget html-fill-item" id="htmlwidget-1a72c00d7f2b99bef90d" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-1a72c00d7f2b99bef90d">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"setView":[[52.332966,5.241356],20,[]],"calls":[{"method":"addWMSTiles","args":["https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0",null,null,{"styles":"","format":"image/jpeg","transparent":false,"version":"1.1.1","attribution":"PDOK Luchtfoto 2016 (25cm)","layers":"2016_ortho25"}]}]},"evals":[],"jsHooks":[]}</script>
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-4b6961f544d0dc390fbc" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-4b6961f544d0dc390fbc">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"setView":[[52.332966,5.241356],20,[]],"calls":[{"method":"addWMSTiles","args":["https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0",null,null,{"styles":"","format":"image/jpeg","transparent":false,"version":"1.1.1","attribution":"PDOK Luchtfoto 2016 (25cm)","layers":"2016_ortho25"}]}]},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 </div><div class="column" style="width:1%;">
@@ -81,8 +81,8 @@
 </div><div class="column" style="width:49.5%;">
 <div class="cell">
 <div class="cell-output-display">
-<div class="leaflet html-widget html-fill-item" id="htmlwidget-66e257a723f85e4c3e39" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-66e257a723f85e4c3e39">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"setView":[[52.332966,5.241356],20,[]],"calls":[{"method":"addWMSTiles","args":["https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0",null,null,{"styles":"","format":"image/jpeg","transparent":false,"version":"1.1.1","attribution":"PDOK Luchtfoto 2026 (8 cm)","layers":"2026_orthoHR"}]}]},"evals":[],"jsHooks":[]}</script>
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-87122109ecb2525cbc03" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-87122109ecb2525cbc03">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"setView":[[52.332966,5.241356],20,[]],"calls":[{"method":"addWMSTiles","args":["https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0",null,null,{"styles":"","format":"image/jpeg","transparent":false,"version":"1.1.1","attribution":"PDOK Luchtfoto 2026 (8 cm)","layers":"2026_orthoHR"}]}]},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 </div>
