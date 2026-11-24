@@ -25,7 +25,7 @@ about:
 
 ---
 
-Voor deze collectie van verhalen, verbeeldingen en visualisiatie van en over erfgoed in de ruimte is gebruik gemaakt van een [Quarto](https://quarto.org)-blog omgeving. Ieder verhaal over een verbeelding heeft de vorm van een blog-post. 
+Voor deze collectie van verhalen, verbeeldingen en visualisiatie van en over erfgoed in de ruimte is gebruik gemaakt van een [Quarto](https://quarto.org)-blog omgeving. Ieder verhaal over een verbeelding heeft de vorm van een blog-post. De eisen daaraan vindt je in de [Over deze website](about.qmd)-sectie.
 
 Deze website is ontworpen in het kader van het project Kades als Duurzaam Erfgoed (KADE). Dit project is gefinancieerd middels een Comenius-subsidie (<https://doi.org/10.61686/CAOBG60422>).
 
