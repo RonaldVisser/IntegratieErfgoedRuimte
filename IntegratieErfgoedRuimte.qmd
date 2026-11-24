@@ -12,7 +12,7 @@ page-layout: full
 title-block-banner: true
 ---
 
-Deze collectie bestaat uit een aantal posts over erfgoed in de ruimte, daar waar Civiele Techniek en Erfgoed elkaar ontmoeten. De eisen waaraan een blogpost moet voldoen staat in de [Over deze site](about.qmd) sectie
+Deze collectie bestaat uit een aantal posts over erfgoed in de ruimte, daar waar Civiele Techniek en Erfgoed elkaar ontmoeten. De eisen waaraan een blogpost moet voldoen staat in de [Over deze website](about.qmd)-sectie
 
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
