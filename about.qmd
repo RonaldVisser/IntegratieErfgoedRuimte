@@ -1,0 +1,25 @@
+---
+title: "Over deze website"
+author: 
+ - Ronald M. Visser 
+ - Mark Okhuijzen Mulder
+
+---
+
+Deze website bevat diverse blogs van verschillende mensen over de integratie van erfgoed in de ruimte met civiele techniek, groen, kunst en gebouwen.
+
+We stellen een aantal eisen aan de posts. Iedere blog-post moet de volgende onderdelen bevatten:
+
+- Naam van de locatie (titel)
+- Locatieaanduiding middels een punt, lijn of polygoon (afhankelijk van het object)
+- Omschrijving van het object, bestaande uit:
+  - Historische/archeologische context
+  - Integratie in ontwerp of uitvoering
+- Datum van uitvoering (indien bekend)
+- Afbeeldingen:
+  - Eigen foto's van het object
+  - Eventuele online beschikbare rechtenvrije foto's
+- Bronnen
+  - Literatuurreferenties
+  - Links naar gerelateerde websites
+  - Wikidata-link
