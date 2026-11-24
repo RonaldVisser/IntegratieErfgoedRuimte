@@ -96,9 +96,9 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
-    <a class="nav-link" href="./index.qmd"> 
-<span class="menu-text"></span></a>
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Integratie van erfgoed, civiele techniek en gebouwen in de ruimte</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./IntegratieErfgoedRuimte.html"> 
@@ -149,8 +149,8 @@ ul.task-list li input[type="checkbox"] {
   </a>
 </div>
       <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Voor deze collectie van verhalen, verbeeldingen en visualisiatie van en over erfgoed in de ruimte is gebruik gemaakt van een Quarto-blog omgeving. Ieder verhaal over een verbeelding heeft de vorm van een blog-post.</p>
-<p>Deze website is ontworpen in het kader van het project Kades als Duurzaam Erfgoed (KADE). Dit project is gefinancieerd middels een Comenius-subsidie (<a href="https://doi.org/10.61686/CAOBG60422" class="uri">https://doi.org/10.61686/CAOBG60422</a>)</p>
+<p>Voor deze collectie van verhalen, verbeeldingen en visualisiatie van en over erfgoed in de ruimte is gebruik gemaakt van een <a href="https://quarto.org">Quarto</a>-blog omgeving. Ieder verhaal over een verbeelding heeft de vorm van een blog-post.</p>
+<p>Deze website is ontworpen in het kader van het project Kades als Duurzaam Erfgoed (KADE). Dit project is gefinancieerd middels een Comenius-subsidie (<a href="https://doi.org/10.61686/CAOBG60422" class="uri">https://doi.org/10.61686/CAOBG60422</a>).</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -239,7 +239,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/RonaldVisser\.github\.io\/IntegratieErfgoedRuimte\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

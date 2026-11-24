@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Integratie van erfgoed, civiele techniek en gebouwen in de ruimte</title>
-<link>https://your-website-url.example.com/IntegratieErfgoedRuimte.html</link>
-<atom:link href="https://your-website-url.example.com/IntegratieErfgoedRuimte.xml" rel="self" type="application/rss+xml"/>
-<description>A blog built with Quarto</description>
+<link>https://RonaldVisser.github.io/IntegratieErfgoedRuimte/IntegratieErfgoedRuimte.html</link>
+<atom:link href="https://RonaldVisser.github.io/IntegratieErfgoedRuimte/IntegratieErfgoedRuimte.xml" rel="self" type="application/rss+xml"/>
+<description>Een website met blog-posts over de integratie van erfgoed, civiele techniek en gebouwen in de ruimte</description>
 <generator>quarto-1.10.19</generator>
 <lastBuildDate>Mon, 23 Nov 2026 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Bomenboot in Almere</title>
   <dc:creator>Ronald M.Visser</dc:creator>
-  <link>https://your-website-url.example.com/posts/Almere_Bomenboot/Almere_Bomenboot.html</link>
+  <link>https://RonaldVisser.github.io/IntegratieErfgoedRuimte/posts/Almere_Bomenboot/Almere_Bomenboot.html</link>
   <description><![CDATA[ 
 
 
@@ -23,39 +23,66 @@
 
 <section id="locatie" class="level1">
 <h1>Locatie</h1>
-<p>De locatie van deze verbeelding ligt in … in de provincie …</p>
+<p>De locatie van deze verbeelding ligt in Almere in de provincie Flevoland.</p>
 <div class="cell">
 <div class="cell-output-display">
-<div class="leaflet html-widget html-fill-item" id="htmlwidget-c3a176d6baf31ce22610" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-c3a176d6baf31ce22610">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[52.332966,5.241356,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Bomenboot in Almere",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[52.332966,52.332966],"lng":[5.241356,5.241356]}},"evals":[],"jsHooks":[]}</script>
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-09bd00225965ca1bfce0" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-09bd00225965ca1bfce0">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[52.332966,5.241356,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Bomenboot in Almere",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[52.332966,52.332966],"lng":[5.241356,5.241356]}},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 </section>
 <section id="historische-achtergrond" class="level1">
 <h1>Historische achtergrond</h1>
+<p>De gemeente Almere beschrijft op haar website over het schip dat gevonden is op destijds kavel ZF24 alsvolgt:</p>
+<blockquote class="blockquote">
+<p>Begin 1980 werd bij de wijk De Meenten in Almere Haven een oud houten vrachtschip gevonden, vlakbij het Kerkhofpad. Het schip was van eikenhout. Het achterste deel was helemaal heel gebleven. In het wrak lagen een paar turven en een aardewerkschaal. De schaal had 2 oren en 3 pootjes, was zwart aan de buitenkant en werd misschien gebruikt om eten te koken. Het schip is ongeveer uit de eerste helft van de 16de eeuw, want er ligt een schelpenlaag overheen die uit ongeveer 1600 komt. Het schip is dus vóór die tijd gezonken. (Bron: <a href="https://erfgoedhuis.almere.nl/archeologie/ingerichte-vindplaatsen/vindplaats-de-bomenboot-haven" class="uri">https://erfgoedhuis.almere.nl/archeologie/ingerichte-vindplaatsen/vindplaats-de-bomenboot-haven</a>)</p>
+</blockquote>
+<p>Het schip is afgedenkt met een heuvel van grond, om te zorgen dat het beschermd blijft. Het schip op is in 1995 opnieuw onderzocht door het toenmalige Centrum voor Scheepsarcheologie, Hierbij is de staat van het schip onderzocht en geconstateerd dat het schip in goede straat was.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://RonaldVisser.github.io/IntegratieErfgoedRuimte/posts/Almere_Bomenboot/&quot;73625.jpg&quot;" class="img-fluid figure-img" style="width:80.0%"></p>
+<figcaption>Foto van heuvel met daaronder het schip in de jaren ’90 (Bron: Batavialand te Lelystad, Maritiem Archeologisch Depot, 2019, 73625.tiff)</figcaption>
+</figure>
+</div>
 </section>
 <section id="achtergrond-project" class="level1">
 <h1>Achtergrond project</h1>
+<blockquote class="blockquote">
+<p>Na de vondst werd het wrak bedekt met aarde. Daardoor zie je nu een verhoging langs de weg. De weg maakte zelfs een bocht om het wrak te beschermen. In 2007 kwam er een kunstwerk op die plek (Bron: <a href="https://erfgoedhuis.almere.nl/archeologie/ingerichte-vindplaatsen/vindplaats-de-bomenboot-haven" class="uri">https://erfgoedhuis.almere.nl/archeologie/ingerichte-vindplaatsen/vindplaats-de-bomenboot-haven</a>)</p>
+</blockquote>
 </section>
 <section id="integratie-in-ontwerp-of-uitvoering" class="level1">
 <h1>Integratie in ontwerp of uitvoering</h1>
+<p>Het in 2007 geplaatste kunstwerk is gemaakt door kunstenaar Nout Visser (1944-2018). Het bestaat uit 22 jonge eikenbomen die samen de vorm van een omgekeerd schip vormen. Dit is geïnspireerd op de houten spanten van oude schepen en aanvankelijk waren de toppen samengebonden met touwen en latten.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.geertfotografeert.nl/2014/erfgoed/2014-0722-wrakmonumenten-bomenboot-05.jpg" class="img-fluid figure-img" style="width:80.0%"></p>
+<figcaption>Foto van de Bomenboot in 2014 (Foto: Geert van der Wijk via <a href="https://www.geertfotografeert.nl/2014/erfgoedmarkers.html" class="uri">https://www.geertfotografeert.nl/2014/erfgoedmarkers.html</a>)</figcaption>
+</figure>
+</div>
+<p>Sinds 2021 heeft Hetty Cramm het kunstwerk onder haar hoede als Kunstambassadeur (<a href="https://kunstambassadeurs.nl/blog/2023/01/23/hetty-cramm-bomenboot/" class="uri">https://kunstambassadeurs.nl/blog/2023/01/23/hetty-cramm-bomenboot/</a>)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://i0.wp.com/kunstambassadeurs.nl/wp-content/uploads/2023/01/Bomenboot-Hetty-Cramm1-scaled.jpg" class="img-fluid figure-img" style="width:80.0%"></p>
+<figcaption>Foto van de Bomenoot in 2022 (Foto: Bob Cramm, van: <a href="https://kunstambassadeurs.nl/blog/2023/01/23/hetty-cramm-bomenboot/" class="uri">https://kunstambassadeurs.nl/blog/2023/01/23/hetty-cramm-bomenboot/</a>)</figcaption>
+</figure>
+</div>
+<p>Op de onderstaande luchtfoto’s is goed te zien hoe de bomen gegroeid zijn sinds 2016 (oudere luchtfoto,s zijn niet beschikbaar via het <a href="https://nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/a301ddc7-c26f-42d8-b367-509ae5ae47d0">National Georegister</a>).</p>
 <div class="columns">
 <div class="column" style="width:49.5%;">
-<p>Op de luchtfoto van 2020 is deze visualisatie nog goed te zien.</p>
 <div class="cell">
 <div class="cell-output-display">
-<div class="leaflet html-widget html-fill-item" id="htmlwidget-3ca5f13fb1215dc74795" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-3ca5f13fb1215dc74795">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"setView":[[52.332966,5.241356],20,[]],"calls":[{"method":"addWMSTiles","args":["https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0",null,null,{"styles":"","format":"image/jpeg","transparent":false,"version":"1.1.1","attribution":"PDOK Luchtfoto 2020 (25cm)","layers":"2016_ortho"}]}]},"evals":[],"jsHooks":[]}</script>
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-1a72c00d7f2b99bef90d" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-1a72c00d7f2b99bef90d">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"setView":[[52.332966,5.241356],20,[]],"calls":[{"method":"addWMSTiles","args":["https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0",null,null,{"styles":"","format":"image/jpeg","transparent":false,"version":"1.1.1","attribution":"PDOK Luchtfoto 2016 (25cm)","layers":"2016_ortho25"}]}]},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 </div><div class="column" style="width:1%;">
 
 </div><div class="column" style="width:49.5%;">
-<p>Op de foto van 2016 is te zien hoe de</p>
 <div class="cell">
 <div class="cell-output-display">
-<div class="leaflet html-widget html-fill-item" id="htmlwidget-1e5dbff6991b57332551" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-1e5dbff6991b57332551">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"setView":[[52.332966,5.241356],20,[]],"calls":[{"method":"addWMSTiles","args":["https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0",null,null,{"styles":"","format":"image/jpeg","transparent":false,"version":"1.1.1","attribution":"PDOK Luchtfoto 2022 (8 cm)","layers":"2026_orthoHR"}]}]},"evals":[],"jsHooks":[]}</script>
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-66e257a723f85e4c3e39" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-66e257a723f85e4c3e39">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"setView":[[52.332966,5.241356],20,[]],"calls":[{"method":"addWMSTiles","args":["https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0",null,null,{"styles":"","format":"image/jpeg","transparent":false,"version":"1.1.1","attribution":"PDOK Luchtfoto 2026 (8 cm)","layers":"2026_orthoHR"}]}]},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 </div>
@@ -65,9 +92,12 @@
 <h1>Bronnen</h1>
 <section id="opgravingsdata" class="level2">
 <h2 class="anchored" data-anchor-id="opgravingsdata">Opgravingsdata</h2>
+<p>Batavialand te Lelystad, Maritiem Archeologisch Depot, 2019, “Opgravingsdocumentatie scheepswrak ZF-24 / ZF24 (Zuidelijk Flevoland)”, <a href="https://doi.org/10.17026/DANS-X3Y-GP2R" class="uri">https://doi.org/10.17026/DANS-X3Y-GP2R</a>, DANS Data Station Archaeology, V1</p>
 </section>
 <section id="weblinks" class="level2">
 <h2 class="anchored" data-anchor-id="weblinks">Weblinks</h2>
+<p><a href="https://mass.cultureelerfgoed.nl/zf24" class="uri">https://mass.cultureelerfgoed.nl/zf24</a></p>
+<p><a href="https://www.flevolanderfgoed.nl/home/erfgoed/zuidelijk-flevoland-2/scheepswrakken-3/zonder-titel-visser.html" class="uri">https://www.flevolanderfgoed.nl/home/erfgoed/zuidelijk-flevoland-2/scheepswrakken-3/zonder-titel-visser.html</a></p>
 </section>
 <section id="wikidata" class="level2">
 <h2 class="anchored" data-anchor-id="wikidata">Wikidata</h2>
@@ -80,13 +110,13 @@
   <category>Middeleeuwen</category>
   <category>Archeologie</category>
   <category>Scheepswrak</category>
-  <guid>https://your-website-url.example.com/posts/Almere_Bomenboot/Almere_Bomenboot.html</guid>
+  <guid>https://RonaldVisser.github.io/IntegratieErfgoedRuimte/posts/Almere_Bomenboot/Almere_Bomenboot.html</guid>
   <pubDate>Mon, 23 Nov 2026 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Plechelmusplein in Oldenzaal</title>
   <dc:creator>Mark Okhuijzen Mulder</dc:creator>
-  <link>https://your-website-url.example.com/posts/Oldenzaal_Plechelmusplein/Oldenzaal_Plechelmusplein.html</link>
+  <link>https://RonaldVisser.github.io/IntegratieErfgoedRuimte/posts/Oldenzaal_Plechelmusplein/Oldenzaal_Plechelmusplein.html</link>
   <description><![CDATA[ 
 
 
@@ -138,13 +168,13 @@
   <category>Middeleeuwen</category>
   <category>Archeologie</category>
   <category>Begraafplaats</category>
-  <guid>https://your-website-url.example.com/posts/Oldenzaal_Plechelmusplein/Oldenzaal_Plechelmusplein.html</guid>
+  <guid>https://RonaldVisser.github.io/IntegratieErfgoedRuimte/posts/Oldenzaal_Plechelmusplein/Oldenzaal_Plechelmusplein.html</guid>
   <pubDate>Sun, 22 Nov 2026 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>De Romeinse weg langs de N206 nabij Valkenburg (ZH)</title>
   <dc:creator>Ronald M. Visser</dc:creator>
-  <link>https://your-website-url.example.com/posts/Valkenburg_N206/Valkenburg_N206.html</link>
+  <link>https://RonaldVisser.github.io/IntegratieErfgoedRuimte/posts/Valkenburg_N206/Valkenburg_N206.html</link>
   <description><![CDATA[ 
 
 
@@ -225,7 +255,7 @@
   <category>Romeins</category>
   <category>Archeologie</category>
   <category>Weg</category>
-  <guid>https://your-website-url.example.com/posts/Valkenburg_N206/Valkenburg_N206.html</guid>
+  <guid>https://RonaldVisser.github.io/IntegratieErfgoedRuimte/posts/Valkenburg_N206/Valkenburg_N206.html</guid>
   <pubDate>Sun, 22 Nov 2026 23:00:00 GMT</pubDate>
 </item>
 </channel>
