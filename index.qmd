@@ -1,5 +1,5 @@
 ---
-title: "Integratie van erfgoed, civiele techniek en gebouwen in de ruimte"
+title: "Integratie van erfgoed in de ruimte"
 image: KADE_logo.png
 author: 
  - Ronald M. Visser 

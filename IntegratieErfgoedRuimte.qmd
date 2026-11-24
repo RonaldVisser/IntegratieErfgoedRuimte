@@ -1,5 +1,5 @@
 ---
-title: "Integratie van erfgoed in de ruimte"
+title: "Blogs over plekken"
 listing:
   contents: posts
   feed: true
@@ -12,23 +12,8 @@ page-layout: full
 title-block-banner: true
 ---
 
-Deze collectie bestaat uit een aantal posts over erfgoed in de ruimte, daar waar Civiele Techniek en Erfgoed elkaar ontmoeten.
+Deze collectie bestaat uit een aantal posts over erfgoed in de ruimte, daar waar Civiele Techniek en Erfgoed elkaar ontmoeten. De eisen waaraan een blogpost moet voldoen staat in de [Over deze site](about.qmd) sectie
 
-Iedere blog-post moet de volgende onderdelen bevatten:
-
-- Naam van de locatie (titel)
-- Locatieaanduiding middels een punt, lijn of polygoon (afhankelijk van het object)
-- Omschrijving van het object, bestaande uit:
-  - Historische/archeologische context
-  - Integratie in ontwerp of uitvoering
-- Datum van uitvoering (indien bekend)
-- Afbeeldingen:
-  - Eigen foto's van het object
-  - Eventuele online beschikbare rechtenvrije foto's
-- Bronnen
-  - Literatuurreferenties
-  - Links naar gerelateerde websites
-  - Wikidata-link
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(leaflet)
