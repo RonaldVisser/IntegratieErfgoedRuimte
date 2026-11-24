@@ -6,7 +6,7 @@ categories:
   - Archeologie
   - Groen erfgoed
   - Scheepswrak
-description: Visualisatie met eikenbomen van een opgegraven boot
+description: Visualisatie met eikenbomen op een beschermde vindplaats van een schip in de bodem
 author: Ronald M.Visser
 long: 5.241356
 lat: 52.332966
