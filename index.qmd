@@ -14,11 +14,14 @@ about:
     #  text: Bluesky
     #  href: https://bsky.app/
     - icon: linkedin
-      text: LinkedIn
+      text: LinkedIn Ronald
       href: https://www.linkedin.com/in/ronaldmvisser/
+    - icon: linkedin
+      text: LinkedIn Mark
+      href: https://www.linkedin.com/in/mark-okhuijzen-mulder-382bb35/
     - icon: github
-      text: Github
-      href: https://github.com/RonaldVisser/
+      text: Github-broncode
+      href: https://github.com/RonaldVisser/IntegratieErfgoedRuimte
 
 ---
 

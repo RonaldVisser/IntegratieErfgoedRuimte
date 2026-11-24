@@ -33,7 +33,7 @@ De gemeente Almere beschrijft op haar website over het schip dat gevonden is op 
 
 Het schip is afgedenkt met een heuvel van grond, om te zorgen dat het beschermd blijft. Het schip op  is in 1995 opnieuw onderzocht door het toenmalige Centrum voor Scheepsarcheologie, Hierbij is de staat van het schip onderzocht en geconstateerd dat het schip in goede straat was.
 
-![Foto van heuvel met daaronder het schip in de jaren '90 (Bron: Batavialand te Lelystad, Maritiem Archeologisch Depot, 2019, 73625.tiff)]("73625.jpg"){width=80%}
+![Foto van heuvel met daaronder het schip in de jaren '90 (Bron: Batavialand te Lelystad, Maritiem Archeologisch Depot, 2019, 73625.tiff)](73625.jpg){width=80%}
 
 
 # Achtergrond project

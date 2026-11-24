@@ -10,14 +10,14 @@ website:
   title: "Integratie van erfgoed, civiele techniek en gebouwen in de ruimte"
   navbar:
     right:
-      - test: "Integratie van erfgoed in de ruimte"
+      - text: "Integratie van erfgoed in de ruimte"
         href: index.qmd
       - text: "Blogs over plekken"
         href: IntegratieErfgoedRuimte.qmd
       - text: "Over deze website"
         href: about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/RonaldVisser/IntegratieErfgoedRuimte
 format:
   html:
     theme:
