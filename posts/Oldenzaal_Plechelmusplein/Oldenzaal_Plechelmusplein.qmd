@@ -1,0 +1,47 @@
+---
+title: Plechelmusplein in Oldenzaal
+date: 2026-11-23
+categories:
+  - Middeleeuwen
+  - Archeologie
+  - Begraafplaats
+description: Visualisatie van graven op het Plechelmusplein in Oldenzaal
+author: Mark Okhuijzen Mulder
+long: 6.928333
+lat: 52.3125
+---
+
+# Locatie
+
+De locatie van deze verbeelding ligt in Oldenzaal in de provincie Overijssel.
+
+```{r, echo=FALSE}
+library(leaflet)
+library(rmarkdown)
+
+leaflet() |> 
+  addTiles() |> 
+  addMarkers(lng = metadata$long, lat = metadata$lat, popup = metadata$title)
+```
+
+# Historische achtergrond
+Het Plechelmusplein heeft eeuwenlang (van circa 600 tot 1829 na Chr.) dienst gedaan als begraafplaats. Er liggen naar schatting 30.000 mensen begraven. Tussen 2011 en 2013 is er archeologisch onderzoek gedaan. Het DNA van het skeletmateriaal is ook onderzocht.
+
+# Achtergrond project
+Herinrichting van het plein rondom de Plechelmus-basiliek.
+
+# Integratie in ontwerp of uitvoering
+In de nieuwe bestrating zijn 30.000 klinkers met kruisjes opgenomen die symbool staan voor de graven onder het plein.
+
+# Bronnen
+G.L. Williams, 2016, *Memento Mori. Een archeologische opgraving rondom de St. Plechelmuskerk, Oldenzaal*, ADC Monografie 21 / ADC Rapport 3919, Amersfoort (ADC Archeoprojecten).
+
+## Opgravingsdata
+G.L. Williams, 2016, "Oldenzaal Plechelmusplein Opgraving", <https://doi.org/10.17026/DANS-ZUT-J3A5>, DANS Data Station Archaeology, V2
+
+## Weblinks
+<https://www.plechelmusbasiliek.nl> <https://nl.wikipedia.org/wiki/Sint-Plechelmusbasiliek>
+
+## Wikidata
+<https://www.wikidata.org/wiki/Q3661615>
+

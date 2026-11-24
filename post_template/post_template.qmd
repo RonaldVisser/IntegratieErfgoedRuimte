@@ -1,0 +1,44 @@
+---
+title: 
+date: 
+categories:
+  - Archeologie
+  - Geschiedenis
+  - Middeleeuwen
+  - Romeins
+  - Scheepswrak
+  - Weg
+  - Begraafplaats
+description: 
+author: 
+long: 
+lat: 
+---
+
+# Locatie
+
+De locatie van deze verbeelding ligt in ... in de provincie ...
+
+```{r, echo=FALSE}
+library(leaflet)
+library(rmarkdown)
+
+leaflet() |> 
+  addTiles() |> 
+  addMarkers(lng = metadata$long, lat = metadata$lat, popup = metadata$title)
+```
+
+# Historische achtergrond
+
+# Achtergrond project
+
+# Integratie in ontwerp of uitvoering
+
+# Bronnen
+
+## Opgravingsdata
+
+## Weblinks
+
+## Wikidata
+

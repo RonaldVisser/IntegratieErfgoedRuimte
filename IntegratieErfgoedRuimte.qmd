@@ -1,0 +1,62 @@
+---
+title: "Integratie van erfgoed in de ruimte"
+listing:
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: true
+---
+
+Deze collectie bestaat uit een aantal posts over erfgoed in de ruimte, daar waar Civiele Techniek en Erfgoed elkaar ontmoeten.
+
+Iedere blog-post moet de volgende onderdelen bevatten:
+
+- Naam van de locatie (titel)
+- Locatieaanduiding middels een punt, lijn of polygoon (afhankelijk van het object)
+- Omschrijving van het object, bestaande uit:
+  - Historische/archeologische context
+  - Integratie in ontwerp of uitvoering
+- Datum van uitvoering (indien bekend)
+- Afbeeldingen:
+  - Eigen foto's van het object
+  - Eventuele online beschikbare rechtenvrije foto's
+- Bronnen
+  - Literatuurreferenties
+  - Links naar gerelateerde websites
+  - Wikidata-link
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(leaflet)
+library(rmarkdown)
+
+post_files <- list.files("posts", pattern = "\\.qmd$", recursive = TRUE, full.names = TRUE)
+
+posts_df <- do.call(rbind, lapply(post_files, function(f) {
+  meta <- yaml_front_matter(f)
+  if (!is.null(meta$lat) && !is.null(meta$long)) {
+    # Converts e.g. "posts/my-trip/index.qmd" -> "posts/my-trip/index.html"
+    url <- sub("\\.qmd$", ".html", gsub("\\\\", "/", f))
+    data.frame(
+      title = meta$title %||% basename(dirname(f)),
+      lat = as.numeric(meta$lat),
+      long = as.numeric(meta$long),
+      url = url,
+      stringsAsFactors = FALSE
+    )
+  }
+}))
+
+leaflet(posts_df) |>
+  addTiles() |>
+  addMarkers(
+    lng = ~long,
+    lat = ~lat,
+    popup = ~paste0("<b><a href='", url, "'>", title, "</a></b>")
+  )
+
+```

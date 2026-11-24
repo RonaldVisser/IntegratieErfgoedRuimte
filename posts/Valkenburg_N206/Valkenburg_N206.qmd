@@ -1,0 +1,104 @@
+---
+title: De Romeinse weg langs de N206 nabij Valkenburg (ZH)
+date: 2026-11-23
+categories:
+ - Romeins
+ - Archeologie
+ - Weg
+description: Een reconstructie van de Romeinse weg uit 124-125 na Chr. nabij Valkenburg (ZH)
+author: Ronald M. Visser
+long: 4.43524
+lat: 52.17508
+---
+
+# Locatie
+
+De locatie van deze verbeelding ligt langs de N206 nabij Valkenburg in de provincie Zuid Holland.
+
+```{r, echo=FALSE}
+library(leaflet)
+library(rmarkdown)
+
+leaflet() |> 
+  addTiles() |> 
+  addMarkers(lng = metadata$long, lat = metadata$lat, popup = "De locatie van de visualisatie van de Romeinse weg langs de N206")
+```
+
+# Historische achtergrond
+
+Sinds midden jaren 80 van de vorige eeuw is de Romeinse weg meerdere keren opgegraven (Vos/De Hingh 2005). De weg is ook aangetroffen bij de aanleg van de N206. Er zijn verschillende fasen van deze weg gevonden en gedateerd middels dendrochronologisch onderzoek in 99-100 en 145-125 na Christus. Hierbij is in de eerste fase voornamelijk lokaal hout gebruikt, maar in de tweede fase is hout uit het gebied tussen Rijn en Maas gehaald, ruim 100 kilometer hiervandaan (Visser 2025). De weg is opgebouwd uit een weglichaam met houten beschoeiijnen aan weerzijde. Hierdoor lag de weg hoger in het landschap en had men minder last van overstromingen. 
+
+# Achtergrond project
+
+Het ontwerp is een hedendaagse vertaling met betonnen cipressen aan beide zijden van de N206. Daarnaast is er ook een replica van een Romeinse mijlpaal aan de noordzijde geplaatst. Op de locatie is eveneens een 'archeokubus' geplaatst, een kubusvormig informatiepaneel. 
+
+De onderstaande video laat zien wat er bekend is over deze verbeelding in het landschap. Evert van Ginkel vertelt het verhaal.
+
+{{< video https://www.youtube.com/embed/DnyrBEraQc0 >}}
+
+
+# Integratie in ontwerp of uitvoering
+De weg was oorspronkelijk aan beide zijden van de N206 zichtbaar en bestond uit een betonnen weglichaam met een rij betonnen cypressen die verwijzen naar het huidige Italiaanse landschap in Toscane.
+
+![Foto van deze reconstructie van de weg in 2010 (Bron: michiel1972, van <http://www.panoramio.com/photo/32293303>, CC-BY-SA 3.0)](https://upload.wikimedia.org/wikipedia/commons/8/8b/Valkenburg_-_N206_-_Romeinse_weg.jpg)
+
+Het ontwerp is na werkzaamheden omstreeks 2021-2022 verdwenen van de oorspronkelijke locatie.
+
+:::: {.columns}
+
+::: {.column width="49.5%"}
+
+Op de luchtfoto van 2020 is deze visualisatie nog goed te zien.
+```{r, echo=FALSE}
+leaflet() |>
+  setView(lng = metadata$long, lat = metadata$lat, zoom = 20) |> 
+  addWMSTiles(
+    baseUrl = "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0",
+    layers = "2020_ortho25",
+    options = WMSTileOptions(
+      format = "image/jpeg",
+      transparent = FALSE
+    ),
+    attribution = "PDOK Luchtfoto 2020 (25cm)"
+  )
+
+```
+
+:::
+
+::: {.column width="1%"}
+:::
+
+::: {.column width="49.5%"}
+Op de foto van 2022 is de visualisatie volledig verdwenen van deze locatie.
+```{r, echo=FALSE}
+leaflet() |>
+  setView(lng = metadata$long, lat = metadata$lat, zoom = 20) |> 
+  addWMSTiles(
+    baseUrl = "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0",
+    layers = "2022_orthoHR",
+    options = WMSTileOptions(
+      format = "image/jpeg",
+      transparent = FALSE
+    ),
+    attribution = "PDOK Luchtfoto 2022 (8 cm)"
+  )
+
+```
+:::
+::::
+
+# Afbeelding
+
+
+# Bronnen
+
+Vos, W. K., & Hingh, A. E. de. (2005). Romeinen in Valkenburg (ZH). De opgravingsgeschiedenis en het archeologische onderzoek van Praetorium Agrippinae. Hazenberg Archeologie.
+
+Visser, R. M. (2025). Relating Roman Rings. An interdisciplinary study using archaeology, data science and tree rings to understand timber provision in the German Provinces of the Roman Empire [PhD Thesis, Vrije Universiteit]. https://doi.org/10.5463/thesis.1062
+
+## Weblinks 
+
+<https://vici.org/vici/4354>
+
+## Wikidata

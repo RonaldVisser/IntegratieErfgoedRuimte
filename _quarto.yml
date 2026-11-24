@@ -1,0 +1,26 @@
+project:
+  type: website
+  render: 
+    - "*.qmd"
+    - "!post_template/"
+
+website:
+  description: "Een website met blog-posts over de integratie van erfgoed, civiele techniek en gebouwen in de ruimte"
+  #site-url: https://your-website-url.example.com # aanpassen
+  title: "Integratie van erfgoed, civiele techniek en gebouwen in de ruimte"
+  navbar:
+    right:
+      - index.qmd
+      - text: "Integratie van erfgoed in de ruimte"
+        href: IntegratieErfgoedRuimte.qmd
+      - icon: github
+        href: https://github.com/
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+
